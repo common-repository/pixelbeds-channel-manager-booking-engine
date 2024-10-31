@@ -1,0 +1,30 @@
+.tab-content {
+    border: 1px solid #eee;
+    background-color: #fbfbfb;
+    padding: 2%
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #929090;
+    border: 0;
+    box-shadow: none
+}
+
+.btn, .form-control, .nav-pills > li > a {
+    border-radius: 0
+}
+
+.og-booking-admin-wrap, .success-message {
+    padding: 2%
+}
+
+.text-note{
+    font-style: italic;
+    color: gray;
+    display: flex;
+    width: 100%;
+}
+.va-center {
+    vertical-align: inherit !important;
+}

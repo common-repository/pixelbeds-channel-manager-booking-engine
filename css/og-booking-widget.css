@@ -1,0 +1,45 @@
+.btn-submit {
+    width: 100%
+}
+
+.dp-input {
+    padding-left: 35px !important
+}
+
+.dp-icon {
+    position: absolute;
+    border: 0;
+    top: 10%;
+    background: 0 0;
+    z-index: 5
+}
+
+div.date {
+    width: 100% !important
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #999 !important
+}
+
+.form-control::-moz-placeholder {
+    color: #999 !important
+}
+
+.form-control:-ms-input-placeholder {
+    color: #999 !important
+}
+
+.form-control:-moz-placeholder {
+    color: #999 !important
+}
+
+.fw-btn .btn-submit {
+    margin-top: 12%
+}
+
+@media only screen and (max-width: 600px) {
+    .fw-btn .btn-submit {
+        margin-top: 0%
+    }
+}
